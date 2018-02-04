@@ -1,1 +1,1 @@
-Example of ethereum smart contracts using solidity
+Example [Ethereum](https://github.com/ethereum/go-ethereum) smart contracts using kotlin
