@@ -1,1 +1,1 @@
-Example of smart contracts on the [Chain framework](https://github.com/chain/chain) using Ivy
+Example [Chain framework](https://github.com/chain/chain) smart contracts using Ivy
