@@ -1,1 +1,1 @@
-Example of hyperledger contracts using Go
+Example [Hyperledger Fabric](https://github.com/hyperledger/fabric) smart contracts using Go
