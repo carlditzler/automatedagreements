@@ -21,7 +21,7 @@
 > Smart contract language: Kotlin; [examples](https://github.com/corda/corda/blob/master/docs/source/tutorial-contract.rst)
 
 ## 6. Wanchain
-[Wanchain Go](https://github.com/wanchain/go-wanchain) - 
+[Wanchain Go](https://github.com/wanchain/go-wanchain) - An interoperable or independent blockchain created from an Ethereum fork. Smart Contract token transactions are private, supporting anonymous transfers with use a ring signature and single address generation.
 > Smart contract language: Solidity; [examples](https://github.com/wanchain/go-wanchain/wiki/How--to-deploy-smart-contracts-on-Wanchain)
 
 ## 7. Sequence/Chain
