@@ -20,11 +20,14 @@
 [R3 Corda](https://github.com/corda/corda) - Pluggable consensus with a semi-private network, enforces rules provided by nodes and includes a mandatory KYC process. 
 > Smart contract language: Kotlin; [examples](https://github.com/corda/corda/blob/master/docs/source/tutorial-contract.rst)
 
-## 6. Wanchain
+## 6. NEM
+[NEM](https://github.com/NemProject/nem.core) - Handles smart contracts as *smart assets* by using an API service for a blockchain network. Written in Java.
+
+## 7. Wanchain
 [Wanchain Go](https://github.com/wanchain/go-wanchain) - An interoperable or independent blockchain created from an Ethereum fork. Smart Contract token transactions are private, supporting anonymous transfers with use a ring signature and single address generation.
 > Smart contract language: Solidity; [examples](https://github.com/wanchain/go-wanchain/wiki/How--to-deploy-smart-contracts-on-Wanchain)
 
-## 7. Sequence/Chain
+## 8. Sequence/Chain
 [Sequence](https://chain.com/sequence/) - Cloud/ledger-as-a-service system of record to manage any value type or balance using a token-based data model. [Chain](https://chain.com) discontinued [Chain Core](https://github.com/chain/chain) development and support so it can focus on Sequence. 
 > Chain Core was a platform supporting multiple and independent secured blockchain networks written in Go. Enables issuance, ownership, and control of digital assets issued, transferred and exchanged by posting transactions to the Chain network. 
 >> Preferred smart contract language: Ivy
