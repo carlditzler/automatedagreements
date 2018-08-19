@@ -14,7 +14,7 @@
 
 ## 4. Hyperledger Sawtooth
 [Hyperledger Sawtooth](https://github.com/hyperledger/sawtooth-core) - Cryptographically verfiable DB (global state agreement to ensure nodes have identical copies) with parallel transaction execution for high throughput, and consensus based on Proof of Elapsed Time (attestation of specified elapsed time), Byzantine Fault Tolerant options. Can integrate with Ethereum. Written in Python. 
-> Smart contract languagse: Python, Go or JavaScript; Solidity with Seth
+> Smart contract languages: Python, Go or JavaScript; Solidity with Seth. [Examples](https://sawtooth.hyperledger.org/examples/)
 
 ## 5. Corda
 [R3 Corda](https://github.com/corda/corda) - Pluggable consensus with a semi-private network, enforces rules provided by nodes and includes a mandatory KYC process. 
