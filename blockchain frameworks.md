@@ -1,7 +1,7 @@
 # Distributed ledgers or [blockchain frameworks](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/) supporting smart contracts:
 
 1. [Ethereum](https://github.com/ethereum/go-ethereum) - Decentralized application platform with consensus by Proof of Work; will change to Proof of Stake. Primarily implementation, Geth, is written in Go. 
-> Smart contract language: Solidity
+&nbsp;&nbsp;&nbsp;> Smart contract language: Solidity
 
 2. [Quorum, JPMorgan](https://github.com/jpmorganchase/quorum) - Based on Ethereum and introducing encrypted P2P messaging, privacy preserving. Majority voting, Raft-based or Practical Byzantine Fault Tolerance like consensus. 
 > Smart contract language: Solidity
