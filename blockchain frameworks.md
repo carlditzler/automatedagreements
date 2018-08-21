@@ -28,7 +28,7 @@
 > Smart contract language: Solidity; [examples](https://github.com/wanchain/go-wanchain/wiki/How--to-deploy-smart-contracts-on-Wanchain)
 
 ## 8. Sequence/Chain
-[Sequence](https://chain.com/sequence/) - Cloud/ledger-as-a-service system of record to manage any value type or balance using a token-based data model. [Chain](https://chain.com) discontinued [Chain Core](https://github.com/chain/chain) development and support so it can focus on Sequence. 
+[Sequence](https://chain.com/sequence/) - Cloud/ledger-as-a-service system of record to manage any value type or balance using a token-based data model. [Chain](https://chain.com) discontinued [Chain Core](https://github.com/chain/chain) development and support to focus on Sequence. 
 > Chain Core was a platform supporting multiple and independent secured blockchain networks written in Go. Enables issuance, ownership, and control of digital assets issued, transferred and exchanged by posting transactions to the Chain network. 
 >> Preferred smart contract language: Ivy
 
